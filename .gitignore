@@ -1,1 +1,23 @@
 *.txt
+
+Deploy static website steps
+
+first create repository 
+then add required files (html,js,css) any others
+then go github --> then settings --> Pages 
+
+then select Branch 
+then click on main
+then click save
+
+then go repository main "Deploy_static_website"
+heare shoing red or brown symbole is pending show
+then refresh your page 
+then green mark is show success
+
+then click green mark option 
+then click details (here is show all check is passed)
+build, report-build-status, deploy
+
+then click deploy option-->then show your URL
+then your website is done.
